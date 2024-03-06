@@ -19,5 +19,4 @@ public class JenkinsNewApplication {
     public String test() {
         return "I am from Jenkins Test Demo";
     }
-
 }
